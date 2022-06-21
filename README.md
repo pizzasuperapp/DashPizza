@@ -1,11 +1,5 @@
 # Dash Pizza Core staging tree 0.17
 
-| CI     | master                                                                                                                       | develop                                                                                                                        |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Gitlab | [![Build Status](https://gitlab.com/dashpay/dash/badges/master/pipeline.svg)](https://gitlab.com/dashpay/dash/-/tree/master) | [![Build Status](https://gitlab.com/dashpay/dash/badges/develop/pipeline.svg)](https://gitlab.com/dashpay/dash/-/tree/develop) |
-
-https://www.dash.org
-
 ## What is Dash Pizza?
 
 Dash Pizza is an experimental digital currency that enables instant, private
@@ -13,9 +7,6 @@ payments to anyone, anywhere in the world. Dash Pizza uses peer-to-peer technolo
 to operate with no central authority: managing transactions and issuing money
 are carried out collectively by the network. Dash Pizza Core is the name of the open
 source software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the Dash Pizza Core software, see https://www.dash.org/get-dash/.
 
 ## License
 
